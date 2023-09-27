@@ -1,0 +1,42 @@
+corpo {
+    histórico :  #CCCCCC ; _
+    }
+
+    # bandeira {
+    largura :  100 % ;
+    }
+
+    h1 { alinhamento de texto : centro;
+    }
+
+    p {
+      alinhamento de texto : centro;
+    }
+
+    #missao { _
+    tamanho da fonte :  20 px
+    }
+
+    eles são  fortes {
+    cor :  # FF0000 ;
+     }
+
+    . itens {
+    estilo da fonte : itálico;
+    }
+
+    . benefícios {
+    plano de fundo :  #FFFFFF ;
+    preenchimento :  20 px ;
+    }
+
+    você {
+    display : bloco embutido;
+    alinhamento vertical : topo;
+    largura :  20 % ;
+    margem direita :  15 %
+    }
+
+    . imagembenefícios {
+    largura :  50 %
+    }
